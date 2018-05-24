@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SalarioLiquido</string>
+
+    <string-array name="cargo_sel">
+        <item>Gerente</item>
+        <item>Supervisor</item>
+        <item>Servente</item>
+    </string-array>
+
+
 </resources>
